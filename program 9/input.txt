@@ -7,4 +7,4 @@ ALPHA 	    RESW 	    2
 FIVE 	    WORD 	    5
 CHARZ 	    BYTE 	    C'Z'
 BETA 	    RESB 	    1
-** 	    END	      **
+** 	    END	            **
