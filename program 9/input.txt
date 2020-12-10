@@ -1,0 +1,10 @@
+**	    START	    2000
+**	    LDA	      TEN
+**	    STA	      ALPHA
+** 	    LDCH 	    CHARZ
+** 	    STCH 	    BETA
+ALPHA 	RESW 	    2
+TEN 	  WORD 	    5
+CHARZ 	BYTE 	    C'Z'
+BETA 	  RESB 	    1
+** 	    END	      **
